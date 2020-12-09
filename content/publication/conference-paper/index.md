@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'Fashion Life Cycle Forecasting with Instagram.pdf'
+url_pdf: 'media/Fashion Life Cycle Forecasting with Instagram.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
