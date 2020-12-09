@@ -30,16 +30,14 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: https://aisel.aisnet.org/icis2020/hci_artintel/hci_artintel/24/
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_pdf: 'Fashion Life Cycle Forecasting with Instagram.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
