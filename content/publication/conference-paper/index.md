@@ -1,9 +1,10 @@
 ---
-title: "An example conference paper"
+title: "Fad, Fashion or Classic? Fashion Life Cycle Forecasting with Instagram"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Yifan Ren
+- Yilu Zhou
+- Heng Xu
+date: "2020-12-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In Proceedings of the 41st International Conference on Information Systems
+publication_short: In ICIS'2020
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Understanding and forecasting fashion life cycle is of great importance in fashion industry. However, future trends that are full of uncertainty and fashion designers and brands are relying mostly on subjective judgement of fashion trends. The rise of social media has brought new opportunities in fashion industry. This study proposes to adopt a novel time series model, Prophet model, in predicting fashion life cycle. The Prophet model can be tuned to incorporate fashion industry domain knowledge such as seasonality and holiday occasions. Using data collected from Instagram, we compared the tuned Prophet model with traditional ARIMA model and untuned Prophet model on 25 fashion elements. Using a sliding window evaluation, we show that the tuned Prophet model performed significantly better than the benchmark models especially in longer term (12 months). Furthermore, we illustrate that Fad, Fashion and Classic can be quantitatively modeled with Instagram data. We believe this study bridges the gap between fashion industry and quantitative trend prediction.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +31,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://aisel.aisnet.org/icis2020/hci_artintel/hci_artintel/24/
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
 url_dataset: '#'
