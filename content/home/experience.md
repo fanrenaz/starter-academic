@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Fordham University"
   company_url = "https://www.fordham.edu"
   location = "New York"
-  date_start = "2019-09"
+  date_start = "2019-09-01"
   date_end = ""
 
 
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   company = "Bytedance Ltd."
   company_url = "https://www.bytedance.com/en/"
   location = "Beijing"
-  date_start = "2019-04"
-  date_end = "2019-07"
+  date_start = "2019-04-01"
+  date_end = "2019-07-01"
 
 +++
