@@ -1,10 +1,9 @@
 ---
-title: "Fad, Fashion or Classic? Fashion Life Cycle Forecasting with Instagram"
+title: "A Comparison of Important Features for Predicting Polish and Chinese Corporate Bankruptcies"
 authors:
 - Yifan Ren
-- Yilu Zhou
-- Heng Xu
-date: "2020-12-03T00:00:00Z"
+- Gary Weiss
+date: "2020-07-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,20 +16,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the 41st International Conference on Information Systems
-publication_short: In ICIS'2020
+publication: In Proceedings of the 16th International Conference on Data Science
+publication_short: In ICDATA'2020
 
-abstract: Understanding and forecasting fashion life cycle is of great importance in fashion industry. However, future trends that are full of uncertainty and fashion designers and brands are relying mostly on subjective judgement of fashion trends. The rise of social media has brought new opportunities in fashion industry. This study proposes to adopt a novel time series model, Prophet model, in predicting fashion life cycle. The Prophet model can be tuned to incorporate fashion industry domain knowledge such as seasonality and holiday occasions. Using data collected from Instagram, we compared the tuned Prophet model with traditional ARIMA model and untuned Prophet model on 25 fashion elements. Using a sliding window evaluation, we show that the tuned Prophet model performed significantly better than the benchmark models especially in longer term (12 months). Furthermore, we illustrate that Fad, Fashion and Classic can be quantitatively modeled with Instagram data. We believe this study bridges the gap between fashion industry and quantitative trend prediction.
+abstract: This study generates data mining models to predict corporate bankruptcy in Poland and China, and then examines these models to determine the financial characteristics that are of the greatest predictive value. These financial features are then compared for the two countries. The study finds that there while there are some common financial indicators for bankruptcy between the two diverse financial markets, there are also key differences. In particular, asset-related features play a much larger role in predicting bankruptcy in China, while operations-related features play a larger role in predicting bankruptcy in Poland.
 
 # Summary. An optional shortened abstract.
-summary: Understanding and forecasting fashion life cycle is of great importance in fashion industry. However, future trends that are full of uncertainty and fashion designers and brands are relying mostly on subjective judgement of fashion trends. The rise of social media has brought new opportunities in fashion industry. This study proposes to adopt a novel time series model, Prophet model, in predicting fashion life cycle. The Prophet model can be tuned to incorporate fashion industry domain knowledge such as seasonality and holiday occasions. Using data collected from Instagram, we compared the tuned Prophet model with traditional ARIMA model and untuned Prophet model on 25 fashion elements. Using a sliding window evaluation, we show that the tuned Prophet model performed significantly better than the benchmark models especially in longer term (12 months). Furthermore, we illustrate that Fad, Fashion and Classic can be quantitatively modeled with Instagram data. We believe this study bridges the gap between fashion industry and quantitative trend prediction.
+summary: This study generates data mining models to predict corporate bankruptcy in Poland and China, and then examines these models to determine the financial characteristics that are of the greatest predictive value. These financial features are then compared for the two countries. The study finds that there while there are some common financial indicators for bankruptcy between the two diverse financial markets, there are also key differences. In particular, asset-related features play a much larger role in predicting bankruptcy in China, while operations-related features play a larger role in predicting bankruptcy in Poland.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-url_pdf: 'media/Fashion Life Cycle Forecasting with Instagram.pdf'
+url_pdf: 'media/CISC6930.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
