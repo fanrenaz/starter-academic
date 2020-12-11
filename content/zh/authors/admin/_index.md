@@ -1,6 +1,6 @@
 ---
 title: 任奕帆
-role: 硕士研究生 (管理信息系统博士申请中)
+role: 硕士研究生 (博士项目申请中)
 avatar_filename: ""
 bio: Breaking Boundaries
 interests:
