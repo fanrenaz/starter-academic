@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 90
 
-title: Accomplish&shy;ments
+title: Teaching
 subtitle:
 
 # Date format
