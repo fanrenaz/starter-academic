@@ -1,9 +1,8 @@
 ---
-title: "Fad, Fashion or Classic? Fashion Life Cycle Forecasting with Instagram"
+title: "Collaboration Network among Scholars in the Field of Information Systems (TBD)"
 authors:
 - Yifan Ren
-- Yilu Zhou
-- Heng Xu
+- Zhiya ZUo
 date: "2020-12-03T00:00:00Z"
 doi: ""
 
@@ -14,20 +13,20 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the 41st International Conference on Information Systems
-publication_short: In ICIS'2020
+publication: Under preparation for conferences
+publication_short: Under preparation for conferences
 
-abstract: Understanding and forecasting fashion life cycle is of great importance in fashion industry. However, future trends that are full of uncertainty and fashion designers and brands are relying mostly on subjective judgement of fashion trends. The rise of social media has brought new opportunities in fashion industry. This study proposes to adopt a novel time series model, Prophet model, in predicting fashion life cycle. The Prophet model can be tuned to incorporate fashion industry domain knowledge such as seasonality and holiday occasions. Using data collected from Instagram, we compared the tuned Prophet model with traditional ARIMA model and untuned Prophet model on 25 fashion elements. Using a sliding window evaluation, we show that the tuned Prophet model performed significantly better than the benchmark models especially in longer term (12 months). Furthermore, we illustrate that Fad, Fashion and Classic can be quantitatively modeled with Instagram data. We believe this study bridges the gap between fashion industry and quantitative trend prediction.
+abstract: TBD
 
 # Summary. An optional shortened abstract.
-summary: Understanding and forecasting fashion life cycle is of great importance in fashion industry. However, future trends that are full of uncertainty and fashion designers and brands are relying mostly on subjective judgement of fashion trends. The rise of social media has brought new opportunities in fashion industry. This study proposes to adopt a novel time series model, Prophet model, in predicting fashion life cycle. The Prophet model can be tuned to incorporate fashion industry domain knowledge such as seasonality and holiday occasions. Using data collected from Instagram, we compared the tuned Prophet model with traditional ARIMA model and untuned Prophet model on 25 fashion elements. Using a sliding window evaluation, we show that the tuned Prophet model performed significantly better than the benchmark models especially in longer term (12 months). Furthermore, we illustrate that Fad, Fashion and Classic can be quantitatively modeled with Instagram data. We believe this study bridges the gap between fashion industry and quantitative trend prediction.
+summary: Under preparation for conferences
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: 'media/Fashion Life Cycle Forecasting with Instagram.pdf'
