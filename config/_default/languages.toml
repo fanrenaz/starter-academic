@@ -15,6 +15,6 @@
   [zh.params]
     description = "任奕帆的个人主页"
   [[zh.menu.main]]
-    name = "Wo"
+    name = "简介"
     url = "#about"
     weight = 1
