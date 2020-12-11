@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Final draft writing
-publication_short: In Final draft writing
+publication: In final draft writing
+publication_short: In final draft writing
 
 abstract: TBD
 
 # Summary. An optional shortened abstract.
-summary: TBD
+summary: In final draft writing
 
 tags:
 - Source Themes
