@@ -27,7 +27,7 @@ summary: Understanding and forecasting fashion life cycle is of great importance
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: 'media/Fashion Life Cycle Forecasting with Instagram.pdf'
