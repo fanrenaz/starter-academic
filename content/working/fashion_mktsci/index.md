@@ -23,7 +23,7 @@ publication_short: Work in progress
 abstract: TBD
 
 # Summary. An optional shortened abstract.
-summary: TBD
+summary: Under preparation for journals
 
 tags:
 - Source Themes
