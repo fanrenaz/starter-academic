@@ -26,7 +26,7 @@ summary: This study generates data mining models to predict corporate bankruptcy
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: 'media/CISC6930.pdf'
