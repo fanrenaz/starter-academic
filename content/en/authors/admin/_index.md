@@ -38,4 +38,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Yifan Ren is an MSBA graduate student at Fordham University. His research interests include Social Media/Web Community, Gaming, and FinTech, through technical methodologies such as machine learning, text mining, and network analysis, as well as a combination with econometrics. He worked with multiple professors for different projects, from which he obtained research experience and training.
+Yifan Ren is an MSBA graduate student at Fordham University. His research interests include Social Media, Web Community, and FinTech, through technical methodologies such as machine learning, text mining, and network analysis, as well as a combination with econometrics. He worked with multiple professors for different projects, from which he obtained research experience and training.
