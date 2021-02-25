@@ -30,7 +30,7 @@ education:
       year: Expected 2026
     - course: MSc in Business Analytics
       institution: Fordham University
-      year: 2020
+      year: 2021
     - course: Bachelor's Degree, Experimental Class of Humanities Sciences
       institution: Wuhan University
       year: 2019
@@ -41,4 +41,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Yifan Ren is an MSBA graduate student at Fordham University. His research interests include Social Media, Web Community, and FinTech, through technical methodologies such as machine learning, text mining, and network analysis, as well as a combination with econometrics. He worked with multiple professors for different projects, from which he obtained research experience and training.
+Yifan Ren is an incoming Ph.D. student in MIS at the University of Houston, supervised by Professor Yili(Kevin) Hong. His research interests include Social Media, Web Community, and FinTech, through technical methodologies such as machine learning, text mining, and network analysis, as well as a combination with econometrics. He worked with multiple professors for different projects before, from which he obtained research experience and training.
