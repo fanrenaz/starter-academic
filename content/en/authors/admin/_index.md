@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://github.com/fanrenaz
 organizations:
-  - name: Fordham University
-    url: https://www.fordham.edu/
+  - name: Bauer College of Business, University of Houston
+    url: https://www.bauer.uh.edu/
 education:
   courses:
     - course: PhD in Management Information Systems (Incoming)
