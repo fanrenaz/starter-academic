@@ -1,6 +1,6 @@
 ---
 title: Yifan Ren
-role: Graduate Student (Applying Ph.D. programs in MIS)
+role: Ph.D. Student in MIS (Incoming)
 avatar_filename: ""
 bio: Breaking Boundaries
 interests:
@@ -25,6 +25,9 @@ organizations:
     url: https://www.fordham.edu/
 education:
   courses:
+    - course: PhD in Management Information Systems (Incoming)
+      institution: University of Houston
+      year: Expected 2026
     - course: MSc in Business Analytics
       institution: Fordham University
       year: 2020
