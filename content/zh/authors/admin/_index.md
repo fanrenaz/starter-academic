@@ -1,11 +1,11 @@
 ---
 title: 任奕帆
-role: 硕士研究生 (博士项目申请中)
+role: 博士研究生(即将入学)
 avatar_filename: ""
 bio: Breaking Boundaries
 interests:
-  - 社交媒体与网络社区
-  - 电子游戏
+  - 社交媒体
+  - 网络社区
   - 金融科技
 social:
   - icon: envelope
@@ -21,13 +21,16 @@ social:
     icon_pack: fab
     link: https://github.com/fanrenaz
 organizations:
-  - name: 福特汉姆大学
-    url: https://www.fordham.edu/
+  - name: 休斯顿大学鲍尔商学院
+    url: https://www.bauer.uh.edu/
 education:
   courses:
+    - course: 博士, 管理信息系统
+      institution: 休斯顿大学
+      year: 2026(预计)
     - course: 硕士, 商业分析
       institution: 福特汉姆大学
-      year: 2020
+      year: 2021
     - course: 学士, 人文科学实验班
       institution: 武汉大学
       year: 2019
@@ -38,4 +41,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-任奕帆现于福特汉姆大学就读商业分析硕士项目。他的研究兴趣集中在利用例如机器学习，文本挖掘和网络分析的技术方法，同时与计量经济模型结合，探索社交媒体，网络社区，电子游戏，和金融科技等领域。他曾与多位教授一起工作，并从中得到了研究经验以及学术训练。
+任奕帆将于2021年秋季入读休斯顿大学鲍尔商学院的管理信息系统博士项目。他的研究兴趣集中在利用例如机器学习，文本挖掘和网络分析的技术方法，同时与计量经济模型结合，探索社交媒体，网络社区，和金融科技等领域。他曾与多位教授一起工作，并从中得到了研究经验以及学术训练。
