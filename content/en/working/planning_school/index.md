@@ -2,11 +2,11 @@
 title: "Understanding the Field Evolution of Urban Planning through Informatics"
 authors:
 - Lucie Laurian
-- Zhiya Zuo
-- Yifan Ren
 - Haifeng Qian
-- (author sequence TBD)
-date: "2020-12-03T00:00:00Z"
+- Yifan Ren
+- Zhiya Zuo
+- (alphabetical)
+date: "2021-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
