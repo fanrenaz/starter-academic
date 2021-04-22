@@ -1,5 +1,5 @@
 ---
-title: "Collaboration Network among Scholars in the Field of Information Systems (TBD)"
+title: "The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation"
 authors:
 - Xunyi Wang
 - Reza Mousavi
