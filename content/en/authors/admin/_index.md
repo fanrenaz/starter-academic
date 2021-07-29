@@ -1,11 +1,11 @@
 ---
 title: Yifan Ren
-role: Ph.D. Student in MIS (Incoming)
+role: Ph.D. Student in MIS
 avatar_filename: ""
 bio: Breaking Boundaries
 interests:
   - Sodial Media
-  - Web Community
+  - Online Learning
   - FinTech
 social:
   - icon: envelope
@@ -25,7 +25,7 @@ organizations:
     url: https://www.bauer.uh.edu/
 education:
   courses:
-    - course: PhD in Management Information Systems (Incoming)
+    - course: PhD in Management Information Systems
       institution: University of Houston
       year: Expected 2026
     - course: MSc in Business Analytics
@@ -34,11 +34,11 @@ education:
     - course: Bachelor's Degree, Experimental Class of Humanities Sciences
       institution: Wuhan University
       year: 2019
-email: yren50@fordham.edu
+email: yren13@uh.edu
 superuser: true
 user_groups:
   - Researchers
   - Visitors
 highlight_name: false
 ---
-Yifan Ren is an incoming Ph.D. student in MIS at the University of Houston, supervised by Professor Yili(Kevin) Hong. His research interests include Social Media, Web Community, and FinTech, through technical methodologies such as machine learning, text mining, and network analysis, as well as a combination with econometrics. He worked with multiple professors for different projects before, from which he obtained research experience and training.
+Yifan Ren is a Ph.D. student in MIS at the University of Houston, supervised by Professor Yili(Kevin) Hong. His research interests include Social Media, Online Laeeerning, and FinTech, through mixed-methods, such as technical methodologies (e.g. machine learning, text mining, and network analysis) combined with field experiments and econometrics. He worked with multiple professors for different projects before, from which he obtained research experience and training.
