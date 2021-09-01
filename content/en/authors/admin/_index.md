@@ -41,4 +41,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Yifan Ren is a Ph.D. student in MIS at the University of Houston, supervised by Professor Yili(Kevin) Hong. His research interests include Social Media, Online Laeeerning, and FinTech, through mixed-methods, such as technical methodologies (e.g. machine learning, text mining, and network analysis) combined with field experiments and econometrics. He worked with multiple professors for different projects before, from which he obtained research experience and training.
+Yifan Ren is a Ph.D. student in MIS at the University of Houston, supervised by Professor Yili(Kevin) Hong. His research interests include Social Media, Online Learning, and FinTech, through multiple methodologies including machine learning, econometrics, and field experiments. He worked with multiple professors for different projects before, from which he obtained research experience and training.
