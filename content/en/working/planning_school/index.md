@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In final draft writing
-publication_short: In final draft writing
+publication: Invited for 2nd round review
+publication_short: Invited for 2nd round review
 
 abstract: TBD
 
 # Summary. An optional shortened abstract.
-summary: In final draft writing
+summary: Invited for 2nd round review
 
 tags:
 - Source Themes
