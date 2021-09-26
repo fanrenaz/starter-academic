@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Invited for 2nd round review
-publication_short: Invited for 2nd round review
+publication: Invited for 2nd round review at Journal of Planning Education and Research
+publication_short: Invited for 2nd round review at Journal of Planning Education and Research
 
 abstract: TBD
 
 # Summary. An optional shortened abstract.
-summary: Invited for 2nd round review
+summary: Invited for 2nd round review at Journal of Planning Education and Research
 
 tags:
 - Source Themes
