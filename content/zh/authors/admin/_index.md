@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto: yren50@fordham.edu"
+    link: "mailto: yren13@uh.edu"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yifanren01/
