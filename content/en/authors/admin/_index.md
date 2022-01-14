@@ -4,8 +4,7 @@ role: Ph.D. Student in MIS
 avatar_filename: ""
 bio: Breaking Boundaries
 interests:
-  - Sodial Media
-  - Online Learning
+  - Social Media
   - FinTech
 social:
   - icon: envelope
