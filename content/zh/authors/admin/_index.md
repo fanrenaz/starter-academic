@@ -1,7 +1,7 @@
 ---
 title: 任奕帆
 role: 博士研究生
-avatar_filename: ""
+avatar_filename: "avatar.jpg"
 bio: Breaking Boundaries
 interests:
   - 社交媒体
