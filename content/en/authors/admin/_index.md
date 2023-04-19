@@ -20,24 +20,27 @@ social:
     icon_pack: fab
     link: https://github.com/fanrenaz
 organizations:
-  - name: Bauer College of Business, University of Houston
-    url: https://www.bauer.uh.edu/
+  - name: CUHK Business School
+    url: https://www.bschool.cuhk.edu.hk/
 education:
   courses:
-    - course: PhD in Management Information Systems
+    - course: PhD in Decision Sciences and Managerial Economics
+      institution: The Chinese University of Hong Kong
+      year: 2027 (Expected)
+    - course: PhD in Management Information Systems (Transferred)
       institution: University of Houston
-      year: Expected 2026
+      year: 2022
     - course: MSc in Business Analytics
       institution: Fordham University
       year: 2021
     - course: Bachelor's Degree, Experimental Class of Humanities Sciences
       institution: Wuhan University
       year: 2019
-email: yren13@uh.edu
+email: 
 superuser: true
 user_groups:
   - Researchers
   - Visitors
 highlight_name: false
 ---
-Yifan Ren is a Ph.D. student in MIS at the University of Houston, supervised by Professor Yili(Kevin) Hong. His research interests include Social Media and FinTech, through multiple methodologies including machine learning, econometrics, and field experiments. He worked with multiple professors for different projects before, from which he obtained research experience and training.
+Yifan Ren is a Ph.D. student in Decision Sciences and Managerial Economics (MIS Track) at the Chinese University of Hong Kong. His research interests include Social Media and FinTech, through multiple methodologies including machine learning, econometrics, and field experiments. He worked with multiple professors for different projects before, from which he obtained research experience and training.
