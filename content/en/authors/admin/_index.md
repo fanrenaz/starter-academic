@@ -43,4 +43,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Yifan Ren is a Ph.D. student in Decision Sciences and Managerial Economics (MIS Track) at the Chinese University of Hong Kong. His research interests include Social Media and FinTech, through multiple methodologies including machine learning, econometrics, and field experiments. He worked with multiple professors for different projects before, from which he obtained research experience and training.
+Yifan Ren is a Ph.D. student in Decision Sciences and Managerial Economics (MIS Track) at the Chinese University of Hong Kong, supervised by Professor Renyu (Philip) Zhang. His research interests include Social Media and FinTech, through multiple methodologies including machine learning, econometrics, and field experiments. He worked with multiple professors for different projects before, from which he obtained research experience and training.
